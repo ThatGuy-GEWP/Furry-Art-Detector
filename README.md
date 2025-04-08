@@ -4,7 +4,7 @@ A Pytorch project for binary classification of furry and non furry images
 # Whats in each folder
 ### already_trained:
 contains a python file for batch sorting an entire folder thats dragged and dropped on it (or provided in command-line)
-the model included has been trained for 130 epochs, with 1,629 furry images, and 2,808 non-furry images
+the model included has been trained for 130 epochs, with 1,629 furry images, and 2,808 non-furry images on my 8GB 3050
 
 furry images include various artstyles and forms from comics to sketches, although it contains some realistic artstyles, it picks up on cartoonish styles and sketches the most due to the dataset
 
